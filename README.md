@@ -4,4 +4,4 @@
 
 _
 
-
+User chooses level between easy, medium or hard and decide how many tries to guess correctly the missing word. The objective of the game is to fill the gaps as the phrase is presented.
